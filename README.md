@@ -1,1 +1,1 @@
-# Credit_calculate
+# Credit_calculate простенькая программа на 1 View для вычисления платежа.
